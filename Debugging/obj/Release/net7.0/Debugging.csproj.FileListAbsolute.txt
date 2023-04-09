@@ -1,0 +1,5 @@
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Release/net7.0/Debugging.csproj.AssemblyReference.cache
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Release/net7.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Release/net7.0/Debugging.AssemblyInfoInputs.cache
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Release/net7.0/Debugging.AssemblyInfo.cs
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Release/net7.0/Debugging.csproj.CoreCompileInputs.cache

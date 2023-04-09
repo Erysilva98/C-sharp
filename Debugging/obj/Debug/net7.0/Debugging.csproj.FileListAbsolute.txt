@@ -1,0 +1,15 @@
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/Debugging.csproj.AssemblyReference.cache
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/Debugging.AssemblyInfoInputs.cache
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/Debugging.AssemblyInfo.cs
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/Debugging.csproj.CoreCompileInputs.cache
+/home/erysilva/WorkSpace/Csharp/Debugging/bin/Debug/net7.0/Debugging
+/home/erysilva/WorkSpace/Csharp/Debugging/bin/Debug/net7.0/Debugging.deps.json
+/home/erysilva/WorkSpace/Csharp/Debugging/bin/Debug/net7.0/Debugging.runtimeconfig.json
+/home/erysilva/WorkSpace/Csharp/Debugging/bin/Debug/net7.0/Debugging.dll
+/home/erysilva/WorkSpace/Csharp/Debugging/bin/Debug/net7.0/Debugging.pdb
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/Debugging.dll
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/refint/Debugging.dll
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/Debugging.pdb
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/Debugging.genruntimeconfig.cache
+/home/erysilva/WorkSpace/Csharp/Debugging/obj/Debug/net7.0/ref/Debugging.dll
