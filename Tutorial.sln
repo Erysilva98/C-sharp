@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependencies", "Dependencie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mslearn-dotnet-files", "mslearn-dotnet-files\mslearn-dotnet-files.csproj", "{25A6B03B-74B4-471E-A4F4-834061B971CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApi", "webApi\webApi.csproj", "{CEDE4B16-7C68-46F3-A045-5FB04830C044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{25A6B03B-74B4-471E-A4F4-834061B971CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25A6B03B-74B4-471E-A4F4-834061B971CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25A6B03B-74B4-471E-A4F4-834061B971CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDE4B16-7C68-46F3-A045-5FB04830C044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDE4B16-7C68-46F3-A045-5FB04830C044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDE4B16-7C68-46F3-A045-5FB04830C044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDE4B16-7C68-46F3-A045-5FB04830C044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
