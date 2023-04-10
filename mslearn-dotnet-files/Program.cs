@@ -1,6 +1,4 @@
-﻿using System.IO;
-using System.Collections.Generic;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
 var currentDirectory = Directory.GetCurrentDirectory();
 var storesDirectory = Path.Combine(currentDirectory, "stores");
@@ -12,7 +10,7 @@ var salesFiles = FindFiles(storesDirectory);
 
 var salesTotal = CalculateSalesTotal(salesFiles);
 
-File.WriteAllText(Path.Combine(salesTotalDir, "totals.txt"), $"{salesTotal}{Environment.NewLine}");
+File.AppendAllText(Path.Combine(salesTotalDir, "totals.txt"), $"{salesTotal}{Environment.NewLine}");
 
 IEnumerable<string> FindFiles(string folderName)
 {
@@ -34,7 +32,7 @@ IEnumerable<string> FindFiles(string folderName)
 
 double CalculateSalesTotal(IEnumerable<string> salesFiles)
 {
-    double salesFiles = 0;
+    double salesTotal = 0;
 
     foreach (var file in salesFiles)
     {

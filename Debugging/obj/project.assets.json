@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/erysilva/.nuget/packages/": {}
+    "/home/20221ewbj0025/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/erysilva/WorkSpace/Csharp/Debugging/Debugging.csproj",
+      "projectUniqueName": "/home/20221ewbj0025/WorkSpace/C-sharp/Debugging/Debugging.csproj",
       "projectName": "Debugging",
-      "projectPath": "/home/erysilva/WorkSpace/Csharp/Debugging/Debugging.csproj",
-      "packagesPath": "/home/erysilva/.nuget/packages/",
-      "outputPath": "/home/erysilva/WorkSpace/Csharp/Debugging/obj/",
+      "projectPath": "/home/20221ewbj0025/WorkSpace/C-sharp/Debugging/Debugging.csproj",
+      "packagesPath": "/home/20221ewbj0025/.nuget/packages/",
+      "outputPath": "/home/20221ewbj0025/WorkSpace/C-sharp/Debugging/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/erysilva/.nuget/NuGet/NuGet.Config"
+        "/home/20221ewbj0025/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
