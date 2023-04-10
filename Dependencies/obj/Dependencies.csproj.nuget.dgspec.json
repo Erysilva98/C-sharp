@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/erysilva/WorkSpace/Csharp/Dependencies/Dependencies.csproj": {}
+    "/home/20221ewbj0025/WorkSpace/C-sharp/Dependencies/Dependencies.csproj": {}
   },
   "projects": {
-    "/home/erysilva/WorkSpace/Csharp/Dependencies/Dependencies.csproj": {
+    "/home/20221ewbj0025/WorkSpace/C-sharp/Dependencies/Dependencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/erysilva/WorkSpace/Csharp/Dependencies/Dependencies.csproj",
+        "projectUniqueName": "/home/20221ewbj0025/WorkSpace/C-sharp/Dependencies/Dependencies.csproj",
         "projectName": "Dependencies",
-        "projectPath": "/home/erysilva/WorkSpace/Csharp/Dependencies/Dependencies.csproj",
-        "packagesPath": "/home/erysilva/.nuget/packages/",
-        "outputPath": "/home/erysilva/WorkSpace/Csharp/Dependencies/obj/",
+        "projectPath": "/home/20221ewbj0025/WorkSpace/C-sharp/Dependencies/Dependencies.csproj",
+        "packagesPath": "/home/20221ewbj0025/.nuget/packages/",
+        "outputPath": "/home/20221ewbj0025/WorkSpace/C-sharp/Dependencies/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/erysilva/.nuget/NuGet/NuGet.Config"
+          "/home/20221ewbj0025/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
