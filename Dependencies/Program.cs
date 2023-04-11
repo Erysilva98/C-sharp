@@ -1,7 +1,14 @@
 ﻿using Humanizer;
 
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Quantities");
+
+var culture = System.Globalization.CultureInfo.CurrentCulture;
+Console.WriteLine(culture);
+Console.WriteLine(DateTime.UtcNow.AddHours(-24).Humanize());
+Console.WriteLine("cachorro".ToQuantity(2));
+Console.WriteLine(1018.ToWords());
+Console.WriteLine(20.Ordinalize());
+
+Console.WriteLine("\n\nQuantities");
 HumanizeQuantities();
 
 Console.WriteLine("\nDate/Time Manipulation: ");
