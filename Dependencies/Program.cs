@@ -1,6 +1,5 @@
 ﻿using Humanizer;
 
-
 var culture = System.Globalization.CultureInfo.CurrentCulture;
 Console.WriteLine(culture);
 Console.WriteLine(DateTime.UtcNow.AddHours(-24).Humanize());
