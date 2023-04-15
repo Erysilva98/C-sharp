@@ -10,7 +10,9 @@ Conecte-se à API Web executando o seguinte comando:
 
 Outra opção é executar o seguinte comando a qualquer momento enquanto HttpRepl estiver em execução:
 
-    connect https://localhost:{7170}
+    httprepl https://localhost:7170
+    
+    connect https://localhost:7170
 
 
 - Autor: Erimilson Silva
