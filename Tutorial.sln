@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mslearn-dotnet-files", "msl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApi", "webApi\webApi.csproj", "{CEDE4B16-7C68-46F3-A045-5FB04830C044}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladores", "Controladores\Controladores.csproj", "{C6966180-87F3-4227-BEAC-EB367D49B754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoPizza", "ContosoPizza\ContosoPizza.csproj", "{330246AE-E9B8-4E4D-B018-91EAB86C04AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,15 @@ Global
 		{CEDE4B16-7C68-46F3-A045-5FB04830C044}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEDE4B16-7C68-46F3-A045-5FB04830C044}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEDE4B16-7C68-46F3-A045-5FB04830C044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6966180-87F3-4227-BEAC-EB367D49B754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6966180-87F3-4227-BEAC-EB367D49B754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6966180-87F3-4227-BEAC-EB367D49B754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6966180-87F3-4227-BEAC-EB367D49B754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330246AE-E9B8-4E4D-B018-91EAB86C04AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330246AE-E9B8-4E4D-B018-91EAB86C04AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330246AE-E9B8-4E4D-B018-91EAB86C04AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330246AE-E9B8-4E4D-B018-91EAB86C04AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
